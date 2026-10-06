@@ -13,3 +13,7 @@ git clone https://github.com/AidenZhang-AidenNovaLabs/rainyun-api.git ~/.agents/
 ## 使用
 
 安装后对智能体说「列出我的雨云云服务器」等即可自动触发。API 密钥在雨云「用户中心 → API密钥」创建，skill 会通过 `X-Api-Key` 请求头携带。
+
+## License
+
+[MIT](LICENSE)
